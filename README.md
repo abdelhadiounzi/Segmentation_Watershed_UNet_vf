@@ -1,13 +1,6 @@
 # Segmentation d'images par Watershed et U-Net
 
-**Master 2 IA | FSSM | Module Computer Vision | 2026-2027**
 
-**Réalisé par :** Chaouay Lamiae, Midari Aoulia, Rifafi Noura
-**Encadré par :** Prof. Qaffou
-
----
-
-## Présentation
 
 Ce projet porte sur la **segmentation et le comptage de 24 pièces de monnaie en contact** sur une même image. Le notebook `Segmentation_Watershed_UNet_vf.ipynb` se compose de deux parties :
 
